@@ -53,8 +53,8 @@ Our project is a **web-based system for small clinics and barangay health center
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js / PHP  
+- **Frontend:** React.js 
+- **Backend:** Java Spring Boot 
 - **Database:** MySQL / PostgreSQL  
 - **Deployment:** Web-based, accessible via browser 🌐  
 
